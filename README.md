@@ -19,9 +19,6 @@ A mental health support website providing:
 - JavaScript
 - Chart.js for mood visualization
 
-## Visit the Website
-[Coping With Help](https://YOUR_USERNAME.github.io/coping-with-help)
-
 ## Local Development
 1. Clone the repository
 2. Open index.html in your browser
